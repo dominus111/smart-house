@@ -7,4 +7,4 @@ The program simulates 24 hours and gives an information to the user what was wor
 ## Running
 Run from *Main.java* giving it an argument *myHouse.txt*
 ## Developed by
-
+Martin Kanev - m.kanev99@gmial.com
