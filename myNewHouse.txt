@@ -1,0 +1,29 @@
+name: Lights
+subclass: CyclicFixed
+meter: electric
+Min units consumed:
+Max units consumed:
+Fixed units consumed: 6
+Probability switched on:
+Cycle length: 5/24
+
+name: Dishwasher
+subclass: RandomFixed
+meter: electric and water
+Min units consumed:
+Max units consumed:
+Fixed units consumed: 2
+Probability switched on: 1 in 3
+Cycle length:
+
+name: Wind turbine
+subclass: RandomVaries
+meter: electric
+Min units consumed: -1
+Max units consumed: -25
+Fixed units consumed: 
+Probability switched on: 1 in 2
+Cycle length:
+
+
+

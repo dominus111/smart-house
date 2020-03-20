@@ -1,0 +1,318 @@
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 1.5 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 12.305728
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 12.305729 utility units
+The total units used from mains is: 4.388947
+The battery power(units) is: 0.0
+Utility: electric 0.0 0.0
+Utility: water 6.6270084 19.881025314331055
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 1.5 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 16.102375
+Utility: electric 0.0 0.0
+Utility: water 5.0 15.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 8.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 28.905457
+Utility: electric 0.0 0.0
+Utility: water 5.0 15.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 8.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 40.849392
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 5.0 15.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 27.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 36.954575
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 34.854576
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 32.754578
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 30.654577
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 3.6 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 36.836483
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 48.07126
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 45.97126
+Utility: electric 0.0 0.0
+Utility: water 5.4573793 16.372138023376465
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 47.9
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 3.6 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 47.9
+Utility: electric 0.0 0.0
+Utility: water 5.0 15.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 3.6 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 50.0
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+Today the TV wasn't used!
+Today the Kettle wasn't used!
+Today the Computer wasn't used!
+Today the Wind turbine wasn't used!
+Today the Toilet wasn't used!
+Today the Hose wasn't used!
+Today the Kitchen taps wasn't used!
+The battery gave: 2.1 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 47.9
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+
+A new hour:
+The battery gave: 0.0 utility units
+The total units used from mains is: 0.0
+The battery power(units) is: 47.9
+Utility: electric 0.0 0.0
+Utility: water 0.0 0.0
+The total cost incurred from the simulation is: 96.25
